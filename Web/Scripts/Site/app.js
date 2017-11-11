@@ -1,6 +1,6 @@
 ﻿var CutieHack = "CutieHack";
 
 (function (ngCutiehack) {
-    var app = 
+    var app = angular.module(ngCutiehack, []);
 
 })(CutieHack);
